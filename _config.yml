@@ -2,7 +2,7 @@
 
 title:            
 locale:           en_US
-url: https://satwikkottur.github.io
+url: https://rojha8.github.io/
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -23,16 +23,16 @@ kramdown:
 
 # Site owner
 owner:
-  name: Satwik Kottur
-  avatar: bio-photo-3.jpg
-  position: Research Scientist
-  school: Facebook AI
-  place: Menlo Park, CA
-  bio: "Research Scientist<br/>Facebook AI&#13;&#10;Menlo Park, CA"
-  email: satwik27@gmail.com
+  name: Ritesh Ojha
+  avatar: bio-photo.jpg
+  position: PhD
+  school: Georgia Tech
+  place: Atlanta, USA
+  bio: # "Research Scientist<br/>Facebook AI&#13;&#10;Menlo Park, CA"
+  email: rojha8@gatech.edu
   disqus-shortname:
   twitter: #username
-  facebook: satwik27 #username
+  facebook: #username
   google:
     plus: 
     analytics:
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: satwikkottur
+  github: rojha8
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: satwik-kottur-6898b634 #username
+  linkedin: #username
   xing: #username
   instagram: #username
   lastfm: #username
