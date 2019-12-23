@@ -6,11 +6,11 @@
 - title: Research
   url: /research/
 
-- title: Music
-  url: /music/
+# - title: Music
+#   url: /music/
 
 - title: Resume
-  url: /reports/Satwik-Resume.pdf
+  url: /reports/cv.pdf
 
 - title: Contact
   url: /contact/

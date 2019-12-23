@@ -1,21 +1,20 @@
 ---
 layout: page
 title: Contact
-tags: [satwik, kottur, contact, graduate, cmu]
+tags: [ritesh, ojha, contact, graduate, gatech]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
 You can contact me at :
 
-**Satwik Kottur**  
+**Ritesh Ojha**  
 Email:  
 
-* skottur [at] andrew [dot] cmu [dot] edu
-* satwik27 [at] gmail [dot] com
+* riteshojha@gatech.edu
+* riteshojha3086@gmail.com
 
-Address:  
-B10, Porter Hall,  
-5000 Forbes,  
-Carnegie Mellon University,  
-Pittsburgh, PA - 15213.  
+**Address**:  
+ISyE Main 341,  
+Georgia Institute of Technology,  
+Atlanta, GA - 30332.  

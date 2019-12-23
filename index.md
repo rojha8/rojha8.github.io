@@ -29,21 +29,37 @@ I am awesome.
 <table align="center" class='affl-pic'>
     <tr>
         <td>
-            <a href="http://www.cmu.edu/">
-            <img src="/images/cmu-logo.png"></a>
+            <a href="http://www.gatech.edu/">
+            <img src="/images/gt-logo.png"></a>
         </td>
         <td>
-            <a href="http://www.iitb.ac.in/">
-            <img src="/images/iitb-logo.jpeg"></a>
+            <a href="http://www.ups.com/">
+            <img src="/images/ups-logo.png"></a>
         </td>
         <td>
-            <a href="http://viterbi.usc.edu/">
-            <img src="/images/viterbi-logo.jpg"></a>
+            <a href="http://www.homedepot.com/">
+            <img src="/images/thd.png"></a>
         </td>
+        <td>
+            <a href="http://www.tcgdigital.com/">
+            <img src="/images/tcg-logo.jpeg"></a>
+        </td>
+        <!-- <td>
+            <a href="http://www.hw.ac.uk/">
+            <img src="/images/hwu-logo.svg"></a>
+        </td> -->
+        <td>
+            <a href="http://www.iitkgp.ac.in/">
+            <img src="/images/iitkgp-logo.png"></a>
+        </td>
+    </tr>
     <tr>
-    <tr>
-        <td>Carnegie Mellon University<br>2014-2019</td>
-        <td>IIT Bombay<br>2010-2014</td>
-        <td>Viterbi School, USC<br>Summer 2013</td>
+
+        <td>Georgia Tech<br>2018-present</td>
+        <td>UPS<br>2019-present</td>
+        <td>The Home Depot<br>2019</td>
+        <td>TCG Digital<br>2017-2018</td>
+        <!-- <td>Heriot Watt University<br>2016</td> -->
+        <td>IIT Kharagpur<br>2013-2017</td>
     </tr>
 </table>
