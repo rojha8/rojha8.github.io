@@ -1,21 +1,38 @@
 ---
 layout: page
 title: Welcome
-tags: [ritesh, ojha, home, gatech, graduate]
+tags: [ritesh, ojha, home, gatech, graduate, Martin, Savelsbergh, Natashia, Boland, Alan, Erera]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-Hi!
+I am a PhD student in Operations Research at Georgia Institute of Technology.
 
-I am awesome.
+Before this, I graduated from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. My B. tech thesis in Supply CHain Modelling was supervised my <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital. Subsequently, I enrolled into the MS program in Operations Research at Georgia Tech.
 
+I am working on UPS funded project under the guidance of <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland,</a>  
+<a href="https://www.isye.gatech.edu/users/martin-savelsbergh/">Prof. M. Savelsbergh</a> and  <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. A. Erera</a> on designing efficient algorithms to tackle large scale service network design problems. My research interest is in the broad area of large scale Optimization. I have been exploring decomposition techniques and heuristic algorithms to deal with difficult-to-solve Integer programs.
 ----
 
 <h3 align="center">News</h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Sep 2019]</strong></td>
+        <td>Working as a <strong>GRA</strong> under <strong>M. Savelsbergh, N. Boland, A. Erera</strong> on <strong>UPS</strong> project, Atlanta
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Aug 2019]</strong></td>
+        <td>Beginning my PhD in Operations Research at <a href="https://www.gatech.edu/">Georgia Tech</a>, Atlanta
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[July 2019]</strong></td>
+        <td>Wrapped up my internship with Space Optimization team at <a href="https://careers.homedepot.com/">The Home Depot</a> , Atlanta
+        </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[May 2019]</strong></td>
         <td>Started internship at <a href="https://careers.homedepot.com/">The Home Depot</a>, Atlanta
