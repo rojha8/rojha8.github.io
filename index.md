@@ -12,6 +12,7 @@ Before this, I graduated from IIT Kharagpur, with a B.Tech in Industrial and Sys
 
 I am working on UPS sponsored project under the guidance of <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland,</a>  
 <a href="https://www.isye.gatech.edu/users/martin-savelsbergh/">Prof. M. Savelsbergh</a> and  <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. A. Erera</a> on solving complex problems that arise in large scale service network. My research interest is in the broad area of large scale Optimization. I have been exploring decomposition techniques and heuristic algorithms to deal with difficult-to-solve Integer programs.
+
 ----
 
 <h3 align="center">News</h3>
