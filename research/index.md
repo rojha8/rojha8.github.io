@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Research
-tags: [research, ritesh, ojha, graduate, iitkgp]
+tags: [research, ritesh, ojha, graduate, iitkgp, Natashia, Boland]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My research interest is in the broad area of Large Scale Optimization. I have been exploring decomposition techniques and heuristic algorithms, under the guidance of <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland</a> to deal with difficult-to-solve Integer programs.
+My research interest is in the broad area of Large Scale Optimization. I have been exploring decomposition techniques and heuristic algorithms, under the guidance of <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland,</a> to deal with difficult-to-solve Integer programs.
 
 ### Publications
 
