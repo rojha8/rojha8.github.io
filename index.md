@@ -10,11 +10,10 @@ I am a PhD student in Operations Research at Georgia Institute of Technology.
 
 Before this, I graduated from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. My B. tech thesis in Supply CHain Modelling was supervised my <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital. Subsequently, I enrolled into the MS program in Operations Research at Georgia Tech.
 
-I am working on UPS sponsored project under the guidance of <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland,</a>  
-<a href="https://www.isye.gatech.edu/users/martin-savelsbergh/">Prof. M. Savelsbergh</a> and  <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. A. Erera</a> on solving complex problems that arise in large scale service network. My research interest is in the broad area of large scale Optimization. I have been exploring decomposition techniques and heuristic algorithms to deal with difficult-to-solve Integer programs.
+I am working on UPS sponsored project under the guidance of <a href="https://www.isye.gatech.edu/users/martin-savelsbergh/">Prof. M. Savelsbergh</a>  <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland,</a>  and  <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. A. Erera</a> on solving complex problems that arise in large scale service network. My research interest is in the broad area of large scale Optimization. I have been exploring decomposition techniques and heuristic algorithms to deal with difficult-to-solve Integer programs.
 
 ----
-
+<!-- designing efficient algorithms to tackle  -->
 <h3 align="center">News</h3>
 <table class='news-table'>
     <col width="15%">
