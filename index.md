@@ -10,7 +10,7 @@ I am a PhD student in Operations Research at Georgia Tech.
 
 Before this, I graduated from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. My B. tech thesis in Supply Chain Modelling was supervised my <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital. Subsequently, I enrolled into the MS program in Operations Research at Georgia Tech.
 
-I am working on UPS sponsored project under the guidance of <a href="https://www.isye.gatech.edu/users/martin-savelsbergh/">Prof. M. Savelsbergh,</a>  <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland,</a>  and  <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. A. Erera</a> on solving complex problems that arise in large scale service network.
+I am working on UPS sponsored project under the guidance of <a href="https://www.isye.gatech.edu/users/martin-savelsbergh/">Prof. M. Savelsbergh,</a>  <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland,</a>  and  <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. A. Erera</a> on solving complex problems that arise in large scale service network design.
 
 ----
 <!-- designing efficient algorithms to tackle  -->
