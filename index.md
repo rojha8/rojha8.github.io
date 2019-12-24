@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HI!
+title: Hi!
 tags: [ritesh, ojha, home, gatech, graduate, Martin, Savelsbergh, Natashia, Boland, Alan, Erera, supply chain, operations research]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
