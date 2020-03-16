@@ -6,5 +6,5 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-My latest resume: [Here](/reports/CV.pdf)
+My latest resume: [Here](/reports/cv.pdf)
 *Updated: August 1, 2019*
