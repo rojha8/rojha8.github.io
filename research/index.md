@@ -18,4 +18,16 @@ My research interest is in the broad area of Large Scale Optimization. I have be
 1. A Ghadge, S Dani, **R Ojha**, N Caldwell  
 [Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()   
 *Computers & Industrial Engineering (CAIE), 2017.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
- 
+
+
+### ONGOING RESEARCH
+
+1. **R Ojha**, Natashia Boland  
+[Airline Scheduling]()
+
+
+1. **R Ojha**, Natashia Boland, Alan Erera, Martin Savelsbergh  
+[Long Term Equipment Planning]()   
+
+1. Amanda Chu, Ayush Barmecha, Fei Min, **R Ojha**, Pinar Keskinocak  
+[Evaluating Shift Scheduling and Dispatching Patrol Officers forDenver Public Schools]()   
