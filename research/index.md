@@ -22,7 +22,7 @@ My research interest is in the broad area of Large Scale Optimization. I have be
 
 ### ONGOING RESEARCH
 
-1. **R Ojha**, Natashia Boland  
+1. **Ritesh Ojha**, Natashia Boland  
 [Airline Scheduling]()
 
 
