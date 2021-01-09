@@ -20,7 +20,7 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>I will be presenting my work on Inventory-aware Equipment Planning in Service Networks at <strong>2021 IISE Annual Conference - Logistics and Supply Chain</strong> track
+        <td>I will be presenting my work on Equipment Management in Service Networks at <strong>2021 IISE Annual Conference - Logistics and Supply Chain</strong> track
         </td>
     </tr>
     <tr>
