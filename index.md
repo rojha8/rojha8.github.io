@@ -20,7 +20,7 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Working as a <strong>GRA</strong> under <strong>M. Savelsbergh, N. Boland, A. Erera</strong> on <strong>UPS</strong> project, Atlanta
+        <td>I will be presenting my work on Inventory-aware Equipment Planning in Service Networks at <strong>2021 IISE Annual Conference - Logistics and Supply Chain</strong> track
         </td>
     </tr>
     <tr>
