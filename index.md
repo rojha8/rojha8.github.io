@@ -24,6 +24,11 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
         </td>
     </tr>
     <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Started working on a project on Crossdock operations planning for UPS
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Sep 2019]</strong></td>
         <td>Working as a <strong>GRA</strong> under <strong>M. Savelsbergh, N. Boland, A. Erera</strong> on <strong>UPS</strong> project, Atlanta
         </td>
