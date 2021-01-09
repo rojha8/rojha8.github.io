@@ -24,7 +24,7 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td valign="top"><strong>[Dec 2019]</strong></td>
         <td>Started working on a project on <strong>Crossdock operations</strong> planning with <strong>Prof. A. Erera</strong>
         </td>
     </tr>
