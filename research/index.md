@@ -22,10 +22,10 @@ I am interested in working on Large Scale Optimization problems in Transportatio
 
 ### ONGOING RESEARCH
 
-1. **R Ojha**, Alan Erera 
+1. **R Ojha**, Alan Erera   
 [Cross-Dock Door Assignment and Trailer Sequencing: Planning and Day-of-Operations Tool]() 
 
-2. **R Ojha**, Natashia Boland, Alan Erera, Martin Savelsbergh  
+2. **R Ojha**, Natashia Boland, Alan Erera, Martin Savelsbergh   
 [Inventory-aware Long-term Equipment Planning for Service Networks]()   
 
 3. **R Ojha**, Natashia Boland  
