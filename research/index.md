@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My research interest is in the broad area of Large Scale Optimization. I have been exploring decomposition techniques and heuristic algorithms, under the guidance of <a href="https://www.isye.gatech.edu/users/natashia-boland/">Prof. N. Boland,</a> to deal with difficult-to-solve Integer programs arising in Scheduling optimization.
+I am interested in working on Large Scale Optimization problems in Transportation and Logistics Systems. 
 
 ### Publications
 
@@ -22,12 +22,14 @@ My research interest is in the broad area of Large Scale Optimization. I have be
 
 ### ONGOING RESEARCH
 
-1. **Ritesh Ojha**, Natashia Boland  
-[Airline Scheduling]()
+1. **R Ojha**, Alan Erera 
+[Cross-Dock Door Assignment and Trailer Sequencing: Planning and Day-of-Operations Tool]() 
 
+2. **R Ojha**, Natashia Boland, Alan Erera, Martin Savelsbergh  
+[Inventory-aware Long-term Equipment Planning for Service Networks]()   
 
-1. **R Ojha**, Natashia Boland, Alan Erera, Martin Savelsbergh  
-[Long Term Equipment Planning]()   
+3. **R Ojha**, Natashia Boland  
+[Developing Iterative Decomposition Techniques and Heuristics for Airline Scheduling Problems]()
 
-1. Amanda Chu, Ayush Barmecha, Fei Min, **R Ojha**, Pinar Keskinocak  
-[Evaluating Shift Scheduling and Dispatching Patrol Officers forDenver Public Schools]()   
+4. Amanda Chu, **R Ojha**, Pinar Keskinocak  
+[Scheduling and Dispatching Patrol Officers for Denver Public Schools]()   
