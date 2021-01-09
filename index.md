@@ -19,12 +19,12 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
         <td>I will be presenting my work on Equipment Management in Service Networks at <strong>2021 IISE Annual Conference - Logistics and Supply Chain</strong> track
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Dec 2019]</strong></td>
+        <td valign="top"><strong>[Dec 2020]</strong></td>
         <td>Started working on a project on <strong>Crossdock operations</strong> planning with <strong>Prof. A. Erera</strong>
         </td>
     </tr>
