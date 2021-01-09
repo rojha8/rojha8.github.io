@@ -25,12 +25,12 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Started working on a project on Crossdock operations planning for UPS
+        <td>Started working on a project on <strong>Crossdock operations</strong> planning with <strong>Prof. A. Erera</strong>
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2019]</strong></td>
-        <td>Working as a <strong>GRA</strong> with <strong>M. Savelsbergh</strong> on <strong>Equipment Management in Service Networks</strong> project
+        <td>Working as a <strong>GRA</strong> with <strong>Prof. M. Savelsbergh</strong> on <strong>Equipment Management in Service Networks</strong> project
         </td>
     </tr>
     <tr>
