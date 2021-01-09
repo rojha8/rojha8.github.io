@@ -30,7 +30,7 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2019]</strong></td>
-        <td>Working as a <strong>GRA</strong> with <strong>M. Savelsbergh</strong> on <strong>Inventory-aware Equipment Planning in Service Networks</strong> for UPS
+        <td>Working as a <strong>GRA</strong> with <strong>M. Savelsbergh</strong> on <strong>Equipment Management in Service Networks</strong> project
         </td>
     </tr>
     <tr>
