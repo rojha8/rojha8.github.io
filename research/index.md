@@ -15,21 +15,21 @@ I am interested in working on Large Scale Optimization problems in Transportatio
 *International Journal of Production Research (IJPR), 2018.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1467059)
 
 
-1. A Ghadge, S Dani, **R Ojha**, N Caldwell  
+2. A Ghadge, S Dani, **R Ojha**, N Caldwell  
 [Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()   
 *Computers & Industrial Engineering (CAIE), 2017.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
 
+3. **R Ojha**, Alan Erera, Natashia Boland, Martin Savelsbergh   
+[Inventory-aware Long-term Equipment Planning for Service Networks]() 
+*IISE Annual Conference and Expo 2021.*
 
 ### ONGOING RESEARCH
 
 1. **R Ojha**, Alan Erera   
 [Cross-Dock Door Assignment and Trailer Sequencing: Planning and Day-of-Operations Tool]() 
 
-2. **R Ojha**, Natashia Boland, Alan Erera, Martin Savelsbergh   
-[Inventory-aware Long-term Equipment Planning for Service Networks]()   
+2. **R Ojha**, Luke Marshall Natashia Boland  
+[Developing Iterative Decomposition Techniques and Heuristics for Airline Schedule Design Problems]()
 
-3. **R Ojha**, Natashia Boland  
-[Developing Iterative Decomposition Techniques and Heuristics for Airline Scheduling Problems]()
-
-4. Amanda Chu, **R Ojha**, Pinar Keskinocak  
+3. Amanda Chu, **R Ojha**, Pinar Keskinocak  
 [Scheduling and Dispatching Patrol Officers for Denver Public Schools]()   
