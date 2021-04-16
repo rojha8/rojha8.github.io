@@ -20,6 +20,11 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td>I will be presenting my work on Iterative Decomposition Algorithms for Airline Schedule Design Problem at <strong>EURO Conference 2021</strong>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
         <td>I will be presenting my work on Equipment Management in Service Networks at <strong>2021 IISE Annual Conference - Logistics and Supply Chain</strong> track
         </td>
     </tr>

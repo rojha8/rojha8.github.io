@@ -21,14 +21,14 @@ I am interested in working on Large Scale Optimization problems in Transportatio
 
 3. **R Ojha**, Alan Erera, Natashia Boland, Martin Savelsbergh   
 [Inventory-aware Long-term Equipment Planning for Service Networks]() 
-*IISE Annual Conference and Expo 2021.*
+*IISE Annual Conference and Expo, 2021.*
 
 ### ONGOING RESEARCH
 
 1. **R Ojha**, Alan Erera   
 [Cross-Dock Door Assignment and Trailer Sequencing: Planning and Day-of-Operations Tool]() 
 
-2. **R Ojha**, Luke Marshall Natashia Boland  
+2. **R Ojha**, Luke Marshall, Natashia Boland  
 [Developing Iterative Decomposition Techniques and Heuristics for Airline Schedule Design Problems]()
 
 3. Amanda Chu, **R Ojha**, Pinar Keskinocak  
