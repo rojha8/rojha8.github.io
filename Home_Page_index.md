@@ -19,7 +19,7 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td valign="top"><strong>[April 2021]</strong></td>
         <td>I will be presenting my work on Iterative Decomposition Algorithms for Airline Schedule Design Problem at <strong>EURO Conference 2021</strong>
         </td>
     </tr>
