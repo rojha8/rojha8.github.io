@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a student in Operations Research at Georgia Tech.
+I am a PhD student in Operations Research at Georgia Tech.
 
 Prior to this, I graduated from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. I completed my B. Tech thesis on Supply Chain Modelling under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital.
 
