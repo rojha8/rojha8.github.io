@@ -48,16 +48,6 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
         <td>Beginning my PhD in Operations Research at <a href="https://www.gatech.edu/">Georgia Tech</a>, Atlanta
         </td>
     </tr>
-    <tr>
-        <td valign="top"><strong>[July 2019]</strong></td>
-        <td>Wrapped up my internship with Space Optimization team at <a href="https://careers.homedepot.com/">The Home Depot</a> , Atlanta
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[May 2019]</strong></td>
-        <td>Started internship at <a href="https://careers.homedepot.com/">The Home Depot</a>, Atlanta
-        </td>
-    </tr>
 </table>
 
 ----
