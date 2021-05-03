@@ -20,6 +20,11 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     <col width="85%">
     <tr>
         <td valign="top"><strong>[April 2021]</strong></td>
+        <td>I am the <strong>1st Place</strong> Winner in the <strong>2021 IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition</strong>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[April 2021]</strong></td>
         <td>I will be presenting my work on Package Load Plan Design at <strong>INFORMS Annual Meeting 2021</strong>
         </td>
     </tr>
