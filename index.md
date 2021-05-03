@@ -20,7 +20,7 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     <col width="85%">
     <tr>
         <td valign="top"><strong>[April 2021]</strong></td>
-        <td>I am the <strong>1st Place</strong> Winner in the <strong>2021 IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition</strong>
+        <td>I won the <strong>1st Place</strong> Award in the <strong>2021 IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition</strong>
         </td>
     </tr>
     <tr>
