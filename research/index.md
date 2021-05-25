@@ -21,7 +21,7 @@ I am interested in working on Large Scale Optimization problems in Transportatio
 
 3. **R Ojha**, Alan Erera, Natashia Boland, Martin Savelsbergh   
 [Inventory-aware Long-term Equipment Planning for Service Networks]() 
-*IISE Annual Conference and Expo, 2021.* [<button type="button" class="btn btn-info">Paper</button>](/reports/2021IISE_Inventory_Aware_Equipment_Planning.pdf)  
+*IISE Annual Conference and Expo, 2021.* [<button type="button" class="btn btn-info">Paper</button>]()  
 <strong>1st Place Award</strong> in IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition.
 
 ### ONGOING RESEARCH
