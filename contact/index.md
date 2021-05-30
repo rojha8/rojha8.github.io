@@ -11,7 +11,7 @@ You can contact me at :
 **Ritesh Ojha**  
 Email:  
 
-* riteshojha@gatech.edu
+* rojha8@gatech.edu
 * riteshojha3086@gmail.com
 
 **Address**:  
