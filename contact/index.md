@@ -15,6 +15,6 @@ Email:
 * riteshojha3086@gmail.com
 
 **Address**:  
-ISyE Main 341,  
+ISyE Main 449,  
 Georgia Institute of Technology,  
 Atlanta, GA - 30332.  
