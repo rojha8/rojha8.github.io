@@ -25,7 +25,7 @@ Currently, I am working on UPS sponsored project under the guidance of <a href="
     </tr>
     <tr>
         <td valign="top"><strong>[April 2021]</strong></td>
-        <td>I will be presenting my work on Package Load Plan Design at <strong>INFORMS Annual Meeting 2021</strong>
+        <td>I will be presenting my work on Cross-Dock Truck Scheduling and Worker Assignment at <strong>INFORMS Annual Meeting 2021</strong>
         </td>
     </tr>
     <tr>
