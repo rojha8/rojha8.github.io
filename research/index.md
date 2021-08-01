@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am interested in working on Large Scale Optimization problems in Transportation and Logistics Systems. 
+I am interested in working on large scale problems in Transportation and Logistics Systems.
 
 ### Publications
 
