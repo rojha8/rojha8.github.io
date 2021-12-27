@@ -27,7 +27,7 @@ I am interested in working on large scale problems in Transportation and Logisti
 ### ONGOING RESEARCH
 
 1. **R Ojha**, Alan Erera   
-[Cross-Dock Door Assignment and Trailer Sequencing: Planning and Day-of-Operations Tool]() 
+[Cross-Dock Door Assignment and Trailer Sequencing: Planning and Day-of-Operations]() 
 
 2. **R Ojha**, Luke Marshall, Natashia Boland  
 [Developing Iterative Decomposition Techniques and Heuristics for Airline Schedule Design Problems]()
