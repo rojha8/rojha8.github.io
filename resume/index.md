@@ -8,4 +8,4 @@ comments: true
 
 My latest resume: [Here]
 *Updated: August 1, 2019*
-*(/reports/Ritesh_Ojha_Resume.pdf)*
+*(/reports/Curriculum_Vitae_Ritesh_Ojha.pdf)*
