@@ -10,17 +10,17 @@ I develop exact and heuristic algorithms for large scale optimization problems a
 
 ### Publications
 
-1. **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.   
+1. **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.
 [Inventory-aware Long-term Equipment Planning for Service Networks]() 
 *IISE Annual Conference and Expo, 2021.* [<button type="button" class="btn btn-info">Paper</button>](https://www.proquest.com/openview/bdda4559a67f5d87a1edb0e4a5c3a995/1?pq-origsite=gscholar&cbl=51908)
 <strong>1st Place Award</strong> in IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition.
 
-2. **Ojha, R.**, Ghadge, A., Tiwari, M. K., Bititci, U. 
+2. **Ojha, R.**, Ghadge, A., Tiwari, M. K., Bititci, U.
 [Bayesian network modelling for supply chain risk propagation]()
 *International Journal of Production Research (IJPR), 2018.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1467059)
 
 
-3. Ghadge, A., Dani, S., **Ojha, R.**, N Caldwell  
+3. Ghadge, A., Dani, S., **Ojha, R.**, N Caldwell
 [Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()   
 *Computers & Industrial Engineering (CAIE), 2017.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
 
