@@ -38,4 +38,4 @@ I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industr
         <td>I will be working as an <strong>Applied Scientist</strong> intern in the Amazon Devices Optimization Services team in <strong>Summer 2022</strong> track
         </td>
     </tr>
-</table>
+
