@@ -12,7 +12,7 @@ I develop exact and heuristic algorithms for large scale optimization problems a
 
 1. **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.
 [Inventory-aware Long-term Equipment Planning for Service Networks]() 
-*IISE Annual Conference and Expo, 2021.* [<button type="button" class="btn btn-info">Paper</button>](https://www.proquest.com/openview/bdda4559a67f5d87a1edb0e4a5c3a995/1?pq-origsite=gscholar&cbl=51908)
+*IISE Annual Conference and Expo, 2021.* [<button type="button" class="btn btn-info">Paper</button>](https://www.proquest.com/openview/bdda4559a67f5d87a1edb0e4a5c3a995/1?pq-origsite=gscholar&cbl=51908)   
 <strong>1st Place Award</strong> in IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition.
 
 2. **Ojha, R.**, Ghadge, A., Tiwari, M. K., Bititci, U.
@@ -21,7 +21,7 @@ I develop exact and heuristic algorithms for large scale optimization problems a
 
 
 3. Ghadge, A., Dani, S., **Ojha, R.**, N Caldwell
-[Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()   
+[Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()
 *Computers & Industrial Engineering (CAIE), 2017.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
 
 ### Working Papers
