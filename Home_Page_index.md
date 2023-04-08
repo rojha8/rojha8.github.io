@@ -6,7 +6,11 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am currently a PhD student in Operations Research at ISyE Georgia Tech. I develop exact and heuristic algorithms for large scale optimization problems arising in transportation and logistics networks. I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. My B. Tech thesis was based on Risk Propagation in Supply Chain Networks under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
+I am a PhD student in Operations Research at ISyE Georgia Tech. I develop exact and heuristic algorithms for large scale optimization problems arising in transportation and logistics networks: trucks scheduling, trailer leasing, flow and load planning, network design. I am passionate about integer programming and enjoy developing model formulations. My thesis is supervised by <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. Alan Erera</a> and my research is funded by a large parcel carrier in US.
+
+Under the <a href="https://www.ai4opt.org/">AI4OPT</a> program, I am leading efforts in developing the state-of-the-art methodology for solving large scale tactical load planning problems for trucking companies. This work is in collaboration with <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Prof. Pascal Van Hentenryck</a>.
+
+I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. My B. Tech thesis was based on Risk Propagation in Supply Chain Networks under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
 
 ----
 <!-- designing efficient algorithms to tackle  -->
@@ -48,7 +52,7 @@ I am currently a PhD student in Operations Research at ISyE Georgia Tech. I deve
 
 ----
 
-<!-- <h3 align="center">Affiliations</h3>
+<h3 align="center">Affiliations</h3>
 <table align="center" class='affl-pic'>
     <tr>
         <td>
@@ -85,4 +89,4 @@ I am currently a PhD student in Operations Research at ISyE Georgia Tech. I deve
         <!-- <td>Heriot Watt University<br>2016</td> -->
         <td>IIT Kharagpur<br>2013-2017</td>
     </tr>
-</table> -->
+</table>

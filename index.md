@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Hi!
+title: Bio
 tags: [ritesh, ojha, home, gatech, graduate, Martin, Savelsbergh, Natashia, Boland, Alan, Erera, supply chain, operations research]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a PhD student in Operations Research at Georgia Tech.
+I am a PhD student in Operations Research at ISyE Georgia Tech. I develop exact and heuristic algorithms for large scale optimization problems arising in transportation and logistics networks: trucks scheduling, trailer leasing, flow and load planning, network design. I am passionate about integer programming and enjoy developing model formulations. My thesis is supervised by <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. Alan Erera</a> and my research is funded by a large parcel carrier in US.
 
-Prior to this, I graduated from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. I completed my B. Tech thesis on Supply Chain Modelling under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital.
+Under the <a href="https://www.ai4opt.org/">AI4OPT</a> program, I am leading efforts in developing the state-of-the-art methodology for solving large scale tactical load planning problems for trucking companies. This work is in collaboration with <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Prof. Pascal Van Hentenryck</a>.
 
-Currently, I am working under the guidance of <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. A. Erera</a> on solving complex problems that arise in large scale service network design.
+I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. My B. Tech thesis was based on Risk Propagation in Supply Chain Networks under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
 
 ----
 <!-- designing efficient algorithms to tackle  -->
@@ -19,17 +19,12 @@ Currently, I am working under the guidance of <a href="https://www.isye.gatech.e
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[May 2021]</strong></td>
-        <td>I won the <strong>1st Place</strong> Award in the <strong>2021 IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition</strong>
+        <td valign="top"><strong>[April 2021]</strong></td>
+        <td>I will be presenting my work on Package Load Plan Design at <strong>INFORMS Annual Meeting 2021</strong>
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[April 2021]</strong></td>
-        <td>I will be presenting my work on Cross-Dock Truck Scheduling and Worker Assignment at <strong>INFORMS Annual Meeting 2021</strong>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[March 2021]</strong></td>
         <td>I will be presenting my work on Iterative Decomposition Algorithms for Airline Schedule Design at <strong>EURO Conference 2021</strong>
         </td>
     </tr>
@@ -51,16 +46,6 @@ Currently, I am working under the guidance of <a href="https://www.isye.gatech.e
     <tr>
         <td valign="top"><strong>[Aug 2019]</strong></td>
         <td>Beginning my PhD in Operations Research at <a href="https://www.gatech.edu/">Georgia Tech</a>, Atlanta
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[July 2019]</strong></td>
-        <td>Wrapped up my internship with Space Optimization team at <a href="https://careers.homedepot.com/">The Home Depot</a> , Atlanta
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[May 2019]</strong></td>
-        <td>Started internship at <a href="https://careers.homedepot.com/">The Home Depot</a>, Atlanta
         </td>
     </tr>
 </table>
