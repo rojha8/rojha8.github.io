@@ -12,7 +12,7 @@ I am a Ph.D. student in the Department of Industrial and Systems Engineering at 
 I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. My B. Tech thesis was based on Risk Propagation in Supply Chain Networks under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
 
 ----
-<<!-- designing efficient algorithms to tackle  -->
+
 <h3 align="center">News</h3>
 <table class='news-table'>
     <col width="15%">
