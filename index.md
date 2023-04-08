@@ -6,46 +6,30 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am a PhD student in Operations Research at ISyE Georgia Tech. I develop exact and heuristic algorithms for large scale optimization problems arising in transportation and logistics networks: trucks scheduling, trailer leasing, flow and load planning, network design. I am passionate about integer programming and enjoy developing model formulations. My thesis is supervised by <a href="https://www.isye.gatech.edu/users/alan-erera/">Prof. Alan Erera</a> and my research is funded by a large parcel carrier in US.
-
-Under the <a href="https://www.ai4opt.org/">AI4OPT</a> program, I am leading efforts in developing the state-of-the-art methodology for solving large scale tactical load planning problems for trucking companies. This work is in collaboration with <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Prof. Pascal Van Hentenryck</a>.
+I am a Ph.D. student in the Department of Industrial and Systems Engineering at Georgia Tech. My research thesis focuses on integrating planning decisions with operations scheduling in trucking service networks. I am currently working with <a href="https://www.isye.gatech.edu/users/alan-erera/">Dr. Alan Erera</a> and <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Dr. Pascal Van Hentenryck</a>under the
+<a href="https://www.ai4opt.org/">AI4OPT</a> program. I am leading efforts in developing the state-of-the-art methodology for solving large scale tactical load planning problems using learning-based optimization proxies. Our major contribution is developing an automated capacity planning and scheduling tool for a large U.S. parcel carrier.
 
 I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industrial and Systems Engineering. My B. Tech thesis was based on Risk Propagation in Supply Chain Networks under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Prof. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
 
 ----
-<!-- designing efficient algorithms to tackle  -->
+<<!-- designing efficient algorithms to tackle  -->
 <h3 align="center">News</h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[April 2021]</strong></td>
-        <td>I will be presenting my work on Package Load Plan Design at <strong>INFORMS Annual Meeting 2021</strong>
+        <td valign="top"><strong>[March 2023]</strong></td>
+        <td>I will be presenting my work on Optimization-based Learning for Load Plan Modification in Service Networks at <strong>INFORMS Annual Meeting 2023</strong>
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[April 2021]</strong></td>
-        <td>I will be presenting my work on Iterative Decomposition Algorithms for Airline Schedule Design at <strong>EURO Conference 2021</strong>
+        <td valign="top"><strong>[May 2022]</strong></td>
+        <td>I will be presenting my work on Iterative Exact Algorithms for Unrelated Parallel Machine Scheduling at <strong>MIP Workshop 2023</strong>
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td>I will be presenting my work on Equipment Management in Service Networks at <strong>2021 IISE Annual Conference - Logistics and Supply Chain</strong> track
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Dec 2020]</strong></td>
-        <td>Started working on a project on <strong>Crossdock operations</strong> planning with <strong>Prof. A. Erera</strong>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Sep 2019]</strong></td>
-        <td>Working as a <strong>GRA</strong> with <strong>Prof. M. Savelsbergh</strong> on <strong>Equipment Management in Service Networks</strong> project
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Aug 2019]</strong></td>
-        <td>Beginning my PhD in Operations Research at <a href="https://www.gatech.edu/">Georgia Tech</a>, Atlanta
+        <td>I will be working as an Applied Scientist intern in the Amazon Devices Optimization Services team in Summer 2022</strong> track
         </td>
     </tr>
 </table>
