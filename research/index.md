@@ -10,28 +10,30 @@ I develop exact and heuristic algorithms for large scale optimization problems a
 
 ### Publications
 
-1. **R Ojha**, A Ghadge, MK Tiwari, US Bititci  
+1. **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.   
+[Inventory-aware Long-term Equipment Planning for Service Networks]() 
+*IISE Annual Conference and Expo, 2021.* [<button type="button" class="btn btn-info">Paper</button>](https://www.proquest.com/openview/bdda4559a67f5d87a1edb0e4a5c3a995/1?pq-origsite=gscholar&cbl=51908)
+<strong>1st Place Award</strong> in IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition.
+
+2. **Ojha, R.**, Ghadge, A., Tiwari, M. K., Bititci, U. 
 [Bayesian network modelling for supply chain risk propagation]()
 *International Journal of Production Research (IJPR), 2018.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1467059)
 
 
-2. A Ghadge, S Dani, **R Ojha**, N Caldwell  
+3. Ghadge, A., Dani, S., **Ojha, R.**, N Caldwell  
 [Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()   
 *Computers & Industrial Engineering (CAIE), 2017.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
 
-3. **R Ojha**, Alan Erera, Natashia Boland, Martin Savelsbergh   
-[Inventory-aware Long-term Equipment Planning for Service Networks]() 
-*IISE Annual Conference and Expo, 2021.* 
+### Working Papers
 
-<strong>1st Place Award</strong> in IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition.
+1. **Ojha, R.**, Chen, W., Khir, R., Erera, A., Van Hentenryck, P. (July 2023)    
+[Optimization-based Learning for Tactical Load Plan Modification in Service Networks.]() 
 
-### ONGOING RESEARCH
+2. **Ojha, R.**, Marshall, L. (June 2023)  
+[The Airline Timetable Development Problem: Exact and Heuristic Algorithms]()
 
-1. **R Ojha**, Alan Erera   
-[Cross-Dock Door Assignment and Trailer Sequencing: Planning and Day-of-Operations Tool]() 
+3. **Ojha, R.**, Erera, A. (May 2023)
+[Cross-Dock Trailer Scheduling with Worker Constraints]() 
 
-2. **R Ojha**, Luke Marshall  
-[Developing Iterative Decomposition Techniques and Heuristics for Airline Schedule Design Problems]()
-
-3. Amanda Chu, **R Ojha**, Pinar Keskinocak  
-[Scheduling and Dispatching Patrol Officers for Denver Public Schools]()   
+4. **Ojha, R.**, Erera, A. (May 2023)
+[An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
