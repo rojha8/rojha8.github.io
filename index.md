@@ -18,11 +18,11 @@ I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industr
     <col width="85%">
     <tr>
         <td valign="top"><strong>[March 2023]</strong></td>
-        <td>I will be presenting my work on <strong>Optimization-based Learning</strong> for Load Plan Modification in Service Networks at <strong>INFORMS Transportation Science and Logistics Conference (TSL) 2023</strong>
+        <td>I will be presenting my work on <strong>Optimization-based Learning</strong> for Load Plan Modification in Service Networks at <strong>INFORMS Transportation Science and Logistics (TSL) Conference 2023</strong>
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[March 2023]</strong></td>
+        <td valign="top"><strong>[May 2022]</strong></td>
         <td>I will be presenting my work on <strong>Outbound Tactical Load Plan Modification in Service Networks at <strong>INFORMS Annual Meeting 2023</strong>
         </td>
     </tr>
@@ -37,5 +37,3 @@ I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industr
         </td>
     </tr>
 </table>
-
-----
