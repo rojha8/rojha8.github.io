@@ -20,22 +20,18 @@ I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industr
     <col width="85%">
     <tr>
         <td valign="top"><strong>[March 2023]</strong></td>
-        <td>I will be presenting my work on <strong>Optimization-based Learning</strong> for Load Plan Modification in Service Networks at <strong>INFORMS Transportation Science and Logistics (TSL) Conference 2023</strong>
-        </td>
+        <td>I will be presenting my work on <strong>Optimization-based Learning</strong> for Load Plan Modification in Service Networks at <strong>INFORMS Transportation Science and Logistics (TSL) Conference 2023</strong></td>
     </tr>
     <tr>
         <td valign="top"><strong>[May 2022]</strong></td>
-        <td>I will be presenting my work on <strong>Outbound Tactical Load Plan Modification</strong> in Service Networks at <strong>INFORMS Annual Meeting 2023</strong>
-        </td>
+        <td>I will be presenting my work on <strong>Outbound Tactical Load Plan Modification</strong> in Service Networks at <strong>INFORMS Annual Meeting 2023</strong></td>
     </tr>
     <tr>
         <td valign="top"><strong>[May 2022]</strong></td>
-        <td>I will be presenting my work on Iterative Exact Algorithms for <strong>Unrelated Parallel Machine Scheduling</strong> at <strong>MIP Workshop 2023</strong>
-        </td>
+        <td>I will be presenting my work on Iterative Exact Algorithms for <strong>Unrelated Parallel Machine Scheduling</strong> at <strong>MIP Workshop 2023</strong></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>
-        <td>I will be working as an <strong>Applied Scientist</strong> intern in the Amazon Devices Optimization Services team in <strong>Summer 2022</strong> track
-        </td>
+        <td>I will be working as an <strong>Applied Scientist</strong> intern in the Amazon Devices Optimization Services team in <strong>Summer 2022</strong></td>
     </tr>
 </table>
