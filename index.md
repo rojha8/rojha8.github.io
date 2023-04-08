@@ -25,7 +25,7 @@ I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industr
     </tr>
     <tr>
         <td valign="top"><strong>[May 2022]</strong></td>
-        <td>I will be presenting my work on <strong>Outbound Tactical Load Plan Modification in Service Networks at <strong>INFORMS Annual Meeting 2023</strong>
+        <td>I will be presenting my work on <strong>Outbound Tactical Load Plan Modification</strong> in Service Networks at <strong>INFORMS Annual Meeting 2023</strong>
         </td>
     </tr>
     <tr>
