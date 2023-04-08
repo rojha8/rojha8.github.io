@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am interested in working on large scale problems in Transportation and Logistics Systems.
+I develop exact and heuristic algorithms for large scale optimization problems arising in transportation and logistics networks: trucks scheduling, trailer leasing, flow and load planning, network design. I am passionate about integer programming and enjoy developing mathematical formulations.
 
 ### Publications
 

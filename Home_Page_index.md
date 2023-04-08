@@ -19,33 +19,18 @@ I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industr
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[April 2021]</strong></td>
-        <td>I will be presenting my work on Package Load Plan Design at <strong>INFORMS Annual Meeting 2021</strong>
+        <td valign="top"><strong>[March 2023]</strong></td>
+        <td>I will be presenting my work on Optimization-based Learning for Load Plan Modification in Service Networks at <strong>INFORMS Annual Meeting 2023</strong>
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[April 2021]</strong></td>
-        <td>I will be presenting my work on Iterative Decomposition Algorithms for Airline Schedule Design at <strong>EURO Conference 2021</strong>
+        <td valign="top"><strong>[May 2022]</strong></td>
+        <td>I will be presenting my work on Iterative Exact Algorithms for Unrelated Parallel Machine Scheduling at <strong>MIP Workshop 2023</strong>
         </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td>I will be presenting my work on Equipment Management in Service Networks at <strong>2021 IISE Annual Conference - Logistics and Supply Chain</strong> track
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Dec 2020]</strong></td>
-        <td>Started working on a project on <strong>Crossdock operations</strong> planning with <strong>Prof. A. Erera</strong>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Sep 2019]</strong></td>
-        <td>Working as a <strong>GRA</strong> with <strong>Prof. M. Savelsbergh</strong> on <strong>Equipment Management in Service Networks</strong> project
-        </td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Aug 2019]</strong></td>
-        <td>Beginning my PhD in Operations Research at <a href="https://www.gatech.edu/">Georgia Tech</a>, Atlanta
+        <td>I will be working as an Applied Scientist intern in the Amazon Devices Optimization Services team in Summer 2022</strong> track
         </td>
     </tr>
 </table>
