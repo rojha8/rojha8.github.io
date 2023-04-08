@@ -32,7 +32,7 @@ I completed my undergraduate degree from IIT Kharagpur, with a B.Tech in Industr
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td valign="top"><strong>[Feb 2022]</strong></td>
         <td>I will be working as an <strong>Applied Scientist</strong> intern in the Amazon Devices Optimization Services team in <strong>Summer 2022</strong> track
         </td>
     </tr>
