@@ -28,7 +28,7 @@ I completed my undergraduate degree from Indian Institute of Technology Kharagpu
     </tr>
     <tr>
         <td valign="top"><strong>[May 2022]</strong></td>
-        <td>I will be presenting my work on Iterative Exact Algorithms for <strong>Unrelated Parallel Machine Scheduling</strong> at <strong>MIP Workshop 2023</strong></td>
+        <td>I will be presenting my work on Iterative Exact Algorithms for <strong>Unrelated Parallel Machine Scheduling</strong> at <strong>MIP Workshop 2022</strong></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>
