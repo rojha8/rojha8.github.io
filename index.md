@@ -24,7 +24,7 @@ I completed my undergraduate degree from Indian Institute of Technology Kharagpu
     </tr>
     <tr>
         <td valign="top"><strong>[May 2022]</strong></td>
-        <td>I will be presenting my work on <strong>Outbound Tactical Load Plan Modification</strong> in Service Networks at <strong>INFORMS Annual Meeting 2023</strong></td>
+        <td>I will be presenting my work on <strong>Outbound Tactical Load Plan Modification</strong> in Service Networks at <strong>INFORMS Annual Meeting 2022</strong></td>
     </tr>
     <tr>
         <td valign="top"><strong>[May 2022]</strong></td>
