@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I specialize in developing exact and heuristic algorithms for large-scale optimization problems in transportation and logistics networks. My work encompasses a range of challenging problems, including *truck scheduling*, *trailer leasing*, *flow and load planning*, and *network design*. As a passionate integer programmer, I relish the challenge of devising effective and *implementable* mathematical solutions, using *data-driven heuristics* and *decomposition* methods. Through my work, I help transportation and logistics companies to optimize their service network operations and improve efficiency.
+I specialize in developing exact and heuristic algorithms for large-scale optimization problems in transportation and logistics networks. My work encompasses a range of challenging problems, including *truck scheduling*, *trailer lease planning*, *flow and load planning*, and *network design*. As a passionate integer programmer, I relish the challenge of devising effective and *implementable* mathematical solutions, using *data-driven heuristics* and *decomposition* methods. Through my work, I help transportation and logistics companies to optimize their service network operations and improve efficiency.
 
 ### Publications
 
