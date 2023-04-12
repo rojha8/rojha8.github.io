@@ -6,11 +6,11 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-As a Ph.D. student in the Department of Industrial and Systems Engineering at Georgia Tech, I am pushing the research boundary in terms of theory and practice in the area of logistics and supply chain. My thesis centers on integrating planning decisions with operations scheduling in trucking service networks. 
+As a Ph.D. student in Operations Research in the Department of Industrial and Systems Engineering at <strong>Georgia Tech</strong>, I am pushing the research boundary in terms of theory and practice in the area of logistics and supply chain. My thesis centers on integrating planning decisions with operations scheduling in trucking service networks. 
 
 Working with esteemed professors <a href="https://www.isye.gatech.edu/users/alan-erera/">Dr. Alan Erera</a> and <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Dr. Pascal Van Hentenryck</a> under the <a href="https://www.ai4opt.org/">AI4OPT</a> program, I'm leading efforts in conducting cutting-edge research to solve large-scale *tactical load planning* problems using *learning-based optimization proxies*. 
 
-I completed my undergraduate degree from the Indian Institute of Technology Kharagpur, with a B.Tech in Industrial and Systems Engineering. My undergraduate thesis was based on *Risk Propagation in Supply Chain Networks* under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Dr. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
+I completed my undergraduate degree from the <strong>Indian Institute of Technology Kharagpur</strong>, with a B.Tech in Industrial and Systems Engineering. My undergraduate thesis was based on *Risk Propagation in Supply Chain Networks* under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Dr. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
 
 ----
 
