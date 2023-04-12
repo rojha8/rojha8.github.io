@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-As a Ph.D. student in <strong>Operations Research</strong> in the Department of Industrial and Systems Engineering at <strong>Georgia Tech</strong>, I am pushing the research boundary in terms of theory and practice in the area of logistics and supply chain. My thesis centers on integrating planning decisions with operations scheduling in trucking service networks. 
+As a Ph.D. student in <strong>Operations Research</strong> in the Department of Industrial and Systems Engineering at <strong>Georgia Tech</strong>, I am pushing the research boundary in terms of theory and practice in the area of logistics and supply chain. My thesis centers on integrating planning decisions with operations scheduling in <strong>trucking service networks</strong>. 
 
 Working with esteemed professors <a href="https://www.isye.gatech.edu/users/alan-erera/">Dr. Alan Erera</a> and <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Dr. Pascal Van Hentenryck</a> under the <a href="https://www.ai4opt.org/">AI4OPT</a> program, I'm leading efforts in conducting cutting-edge research to solve large-scale *tactical load planning* problems using *learning-based optimization proxies*. 
 
