@@ -24,7 +24,7 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     </tr>
     <tr>
         <td valign="top"><strong>[May 2023]</strong></td>
-        <td>I have been awarded the US NSF sponsored <strong>PhD student travel grant</strong> to attend the TSL Conference 2023 in Chicago></td>
+        <td>I have been awarded the US NSF sponsored <strong>PhD student travel grant</strong> to attend the TSL Conference 2023 in Chicago</td>
     </tr>
     <tr>
         <td valign="top"><strong>[March 2023]</strong></td>
@@ -40,6 +40,6 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>
-        <td>I will be working as an <strong>Applied Scientist</strong> intern in the Amazon Devices Optimization Services team in <strong>Summer 2022</strong></td>
+        <td>I will be working as an <strong>Applied Scientist</strong> intern in the <strong>Amazon</strong> Devices Optimization Services team in <strong>Summer 2022</strong></td>
     </tr>
 </table>
