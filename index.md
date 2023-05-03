@@ -19,6 +19,14 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[May 2023]</strong></td>
+        <td>I have been selected as the AY23-24 Leadership Fellow in the <strong>Georgia Tech Leadership Fellows Program</strong></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2023]</strong></td>
+        <td>I have been awarded the US NSF sponsored <strong>PhD student travel grant</strong> to attend the TSL Conference 2023 in Chicago></td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[March 2023]</strong></td>
         <td>I will be presenting my work on <strong>Optimization-based Learning</strong> for Load Plan Modification in Service Networks at <strong>INFORMS Transportation Science and Logistics (TSL) Conference 2023</strong></td>
     </tr>
