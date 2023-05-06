@@ -6,9 +6,9 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-As a Ph.D. student in <strong>Operations Research</strong> in the Department of Industrial and Systems Engineering at <strong>Georgia Tech</strong>, I am pushing the research boundary in terms of theory and practice in the area of logistics and supply chain. My thesis centers on integrating planning decisions with operations scheduling in <strong>trucking service networks</strong>. 
+As a Ph.D. student in <strong>Operations Research</strong> in the Department of Industrial and Systems Engineering at <strong>Georgia Tech</strong>, I am pushing the research boundary in terms of theory and practice in the area of logistics and supply chain. My thesis centers on developing efficient exact and heuristic algorithms for planning and scheduling decisions in <strong>trucking service networks</strong>. 
 
-Working with esteemed professors <a href="https://www.isye.gatech.edu/users/alan-erera/">Dr. Alan Erera</a> and <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Dr. Pascal Van Hentenryck</a> under the <a href="https://www.ai4opt.org/">AI4OPT</a> program, I'm leading efforts in conducting cutting-edge research to solve large-scale *tactical load planning* problems using *learning-based optimization proxies*. 
+Working with esteemed professors <a href="https://www.isye.gatech.edu/users/alan-erera/">Dr. Alan Erera</a> and <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Dr. Pascal Van Hentenryck</a> under the <a href="https://www.ai4opt.org/">AI4OPT</a> program, I'm leading efforts in conducting cutting-edge research to solve large-scale *tactical load planning* problems using <strong>learning-based optimization proxies</strong>. 
 
 I completed my undergraduate degree from the <strong>Indian Institute of Technology Kharagpur</strong>, with a B.Tech in Industrial and Systems Engineering. My undergraduate thesis was based on *Risk Propagation in Supply Chain Networks* under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Dr. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
 
