@@ -26,10 +26,10 @@ I specialize in developing exact and heuristic algorithms for <strong>large-scal
 
 ### Working Papers
 
-1. **Ojha, R.**, Chen, W., Khir, R., Erera, A., Van Hentenryck, P. (July 2023) [Optimization-based Learning for Tactical Load Plan Modification in Service Networks]() 
+1. **Ojha, R.**, Marshall, L. (Aug 2023) [The Airline Timetable Development Problem: Exact and Heuristic Algorithms]() 
 
-2. **Ojha, R.**, Marshall, L. (June 2023) [The Airline Timetable Development Problem: Exact and Heuristic Algorithms]()
+2. **Ojha, R.**, Chen, W., Khir, R., Erera, A., Van Hentenryck, P. (July 2023) [Optimization-based Learning for Tactical Load Plan Modification in Service Networks]()
 
-3. **Ojha, R.**, Erera, A. (May 2023) [Cross-Dock Trailer Scheduling with Worker Constraints]() 
+3. **Ojha, R.**, Erera, A. (June 2023) [Cross-Dock Trailer Scheduling with Worker Constraints]() 
 
-4. **Ojha, R.**, Erera, A. (May 2023) [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
+4. **Ojha, R.**, Erera, A. (June 2023) [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
