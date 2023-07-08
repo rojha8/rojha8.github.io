@@ -24,12 +24,14 @@ I specialize in developing exact and heuristic algorithms for <strong>large-scal
 [Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()
 *Computers & Industrial Engineering (CAIE), 2017.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
 
+### Submitted Papers
+
+1. **Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P. (July 2023) [Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks](Submitted to Transportation Science)
+
 ### Working Papers
 
 1. **Ojha, R.**, Marshall, L. (Aug 2023) [The Airline Timetable Development Problem: Exact and Heuristic Algorithms]() 
 
-2. **Ojha, R.**, Chen, W., Khir, R., Erera, A., Van Hentenryck, P. (July 2023) [Optimization-based Learning for Tactical Load Plan Modification in Service Networks]()
+2. **Ojha, R.**, Erera, A. (July 2023) [Cross-Dock Trailer Scheduling with Worker Constraints]() 
 
-3. **Ojha, R.**, Erera, A. (June 2023) [Cross-Dock Trailer Scheduling with Worker Constraints]() 
-
-4. **Ojha, R.**, Erera, A. (June 2023) [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
+3. **Ojha, R.** (July 2023) [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
