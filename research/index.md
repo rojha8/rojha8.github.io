@@ -27,7 +27,7 @@ I specialize in developing exact and heuristic algorithms for <strong>large-scal
 ### Submitted Papers
 
 1. **Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P. (July 2023) 
-[Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks]() [<button type="button" class="btn btn-info">Submitted to Transportation Science</button>](https://optimization-online.org/?p=23512)
+[Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks]() [<button type="button" class="btn btn-info">Submitted to Transportation Science</button>](https://arxiv.org/abs/2307.04050)
 
 ### Working Papers
 
