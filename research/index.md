@@ -30,10 +30,10 @@ I specialize in developing exact and heuristic algorithms for <strong>large-scal
 [Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks]() [<button type="button" class="btn btn-info">Under Review in Transportation Science</button>](https://arxiv.org/abs/2307.04050)   
 Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
 
-### Working Papers
+### Working Papers 
 
-1. **Ojha, R.**, Marshall, L. (Aug 2023) [The Airline Timetable Development Problem: Exact and Heuristic Algorithms]() 
+1. **Ojha, R.**, Erera, A. (Aug 2023) [Cross-Dock Trailer Scheduling with Worker Constraints]() 
 
-2. **Ojha, R.**, Erera, A. (July 2023) [Cross-Dock Trailer Scheduling with Worker Constraints]() 
+2. **Ojha, R.**, Marshall, L. (Oct 2023) [The Airline Timetable Development Problem: Exact and Heuristic Algorithms]()
 
-3. **Ojha, R.** (July 2023) [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
+3. **Ojha, R.** (Oct 2023) [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
