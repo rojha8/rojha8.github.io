@@ -32,8 +32,8 @@ Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
 
 ### Working Papers 
 
-1. **Ojha, R.**, Erera, A. (Aug 2023) [Cross-Dock Trailer Scheduling with Worker Constraints]() 
+1. **Ojha, R.**, Erera, A. (Sep 2023) [Cross-Dock Trailer Scheduling with Worker Constraints]() 
 
-2. **Ojha, R.**, Marshall, L. (Oct 2023) [The Airline Timetable Development Problem: Exact and Heuristic Algorithms]()
+2. **Ojha, R.**, Marshall, L. (Dec 2023) [The Airline Timetable Development Problem: Exact and Heuristic Algorithms]()
 
-3. **Ojha, R.** (Oct 2023) [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
+3. **Ojha, R.** (Dec 2023) [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
