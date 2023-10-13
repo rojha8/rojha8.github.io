@@ -31,6 +31,7 @@ I specialize in developing exact and heuristic algorithms for <strong>large-scal
 Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
 
 2. **Ojha, R.**, Erera, A. (Sep 2023) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Submitted to Transportation Science</button>]()
+Accepted for presentation in TSL Workshop, December 2021.
 
 ### Working Papers 
 
