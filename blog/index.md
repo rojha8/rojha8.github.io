@@ -8,9 +8,9 @@ comments: true
 
 ### Education
 
-- Ph.D. in Oeprations Research (2024), Minor in Computer Science, Georgia Institute of Technology
-- M.S. in Operations Research (2019), Georgia Institute of Technology
-- B.Tech. in Industrial Engineering (2017), Indian Insitute of Technology Kharagpur
+- Ph.D. in Oeprations Research (2019-2024), Minor in Computer Science, Georgia Institute of Technology
+- M.S. in Operations Research (2018-2019), Georgia Institute of Technology
+- B.Tech. in Industrial Engineering (2013-2017), Indian Insitute of Technology Kharagpur
 
 
 ### Honors and Awards
