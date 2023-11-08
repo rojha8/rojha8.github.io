@@ -52,4 +52,4 @@ Accepted for presentation in TSL Workshop, December 2021.
 
 ### Patents
 
-1. Van Hentenryck, P., Erera, A., **Ojha, R.**, Chen, W., Khir, R., [Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks]() [<button type="button" class="btn btn-info">Filed</button>](https://arxiv.org/abs/2307.04050)
+1. Van Hentenryck, P., Erera, A., **Ojha, R.**, Chen, W., Khir, R., [Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks](https://arxiv.org/abs/2307.04050). Filed.
