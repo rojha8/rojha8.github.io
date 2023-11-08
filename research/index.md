@@ -30,7 +30,7 @@ I specialize in developing exact and heuristic algorithms for <strong>large-scal
 [Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks]() [<button type="button" class="btn btn-info">Under Review in Transportation Science</button>](https://arxiv.org/abs/2307.04050)   
 Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
 
-2. **Ojha, R.**, Erera, A. (Sep 2023) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Submitted to Transportation Science</button>]()   
+2. **Ojha, R.**, Erera, A. (Sep 2023) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Under Review in Transportation Science</button>]()   
 Accepted for presentation in TSL Workshop, December 2021.
 
 ### Working Papers 
@@ -40,3 +40,5 @@ Accepted for presentation in TSL Workshop, December 2021.
 2. **Ojha, R.**, Marshall, L. [Fast Exact Algorithms for Large-scale Airline Schedule Design]()
 
 3. **Ojha, R.** [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
+
+4. **Ojha, R.** [Robust Equipment Planning for Holiday Season in Package Delivery Service Networks]()
