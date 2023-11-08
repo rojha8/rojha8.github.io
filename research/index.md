@@ -42,3 +42,8 @@ Accepted for presentation in TSL Workshop, December 2021.
 3. **Ojha, R.** [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
 
 4. **Ojha, R.** [Robust Equipment Planning for Holiday Season in Package Delivery Service Networks]()
+
+
+### Patents
+
+1. Van Hentenryck, P., Erera, A., **Ojha, R.**, Chen, W., Khir, R., Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks. Filed.
