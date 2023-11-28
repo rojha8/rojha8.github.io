@@ -36,14 +36,14 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 [Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks]() [<button type="button" class="btn btn-info">Under Review in Transportation Science</button>](https://arxiv.org/abs/2307.04050)   
 Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
 
-2. **Ojha, R.**, Erera, A. (Nov 2023) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Under Review in Transportation Science</button>]()   
+2. **Ojha, R.**, Erera, A. (Nov 2023) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Under Review in Transportation Science</button>](https://optimization-online.org/2023/11/cross-dock-trailer-scheduling-with-workforce-constraints-a-dynamic-discretization-discovery-approach/)   
 Accepted for presentation in TSL Workshop, December 2021.
 
 ### Working Papers 
 
 1. **Ojha, R.**, Erera, A., Van Hentenryck, P. [Integrated Inbound-Outbound Dynamic Load Planning in Trucking Service Networks]()
 
-2. **Ojha, R.**, Marshall, L. [Fast Exact Algorithms for Large-scale Airline Schedule Design]()
+2. **Ojha, R.**, Marshall, L. [Exact Algorithms for Large-scale Airline Schedule Design]()
 
 3. **Ojha, R.** [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
 
