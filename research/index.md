@@ -41,7 +41,7 @@ Accepted for presentation in TSL Workshop, December 2021.
 
 ### Working Papers 
 
-1. **Ojha, R.**, Erera, A., Van Hentenryck, P. [Integrated Inbound-Outbound Dynamic Load Planning in Trucking Service Networks]()
+1. **Ojha, R.**, Erera, A., Van Hentenryck, P. [Integrated Inbound-Outbound Load Planning in Trucking Service Networks]()
 
 2. **Ojha, R.**, Marshall, L. [Exact Algorithms for Large-scale Airline Schedule Design]()   
 Accepted for presentation in 9th Triennial ODYSSEUS Conference, May 2024.
