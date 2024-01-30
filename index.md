@@ -20,6 +20,10 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     <col width="85%">
     <tr>
         <td valign="top"><strong>[May 2023]</strong></td>
+        <td>I will be presenting my work on Exact Algorithms for Large-scale Airline Schedule Design at the <strong>Odysseus Conference in May 2024</strong></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2023]</strong></td>
         <td>I will be presenting my work on <strong>Optimization-based learning</strong> for Dynamic Load Planning Problems in Trucking Service Networks at the <strong>INFORMS Annual Meeting 2023</strong></td>
     </tr>
     <tr>
