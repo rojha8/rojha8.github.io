@@ -24,7 +24,7 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     </tr>
     <tr>
         <td valign="top"><strong>[May 2023]</strong></td>
-        <td>I will be presenting my work on <strong>Optimization-based learning</strong> for Dynamic Load Planning Problems in Trucking Service Networks at the <strong>INFORMS Annual Meeting 2023</strong></td>
+        <td>I will be presenting my work on <strong>Optimization-based learning</strong> for Outbound Load Planning Problems in Trucking Service Networks at the <strong>INFORMS Annual Meeting 2023</strong></td>
     </tr>
     <tr>
         <td valign="top"><strong>[May 2023]</strong></td>
