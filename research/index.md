@@ -51,7 +51,7 @@ Accepted for presentation in 9th Triennial ODYSSEUS Conference, May 2024.
 
 3. **Ojha, R.** [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
 
-4. **Ojha, R.** [A Robust Optimization Approach to Equipment Leasing and Repositioning in Parcel Delivery Service Networks]()
+<!-- 4. **Ojha, R.** [A Robust Optimization Approach to Equipment Leasing and Repositioning in Parcel Delivery Service Networks]() -->
 
 
 ### Patents
