@@ -32,13 +32,11 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 
 ### Submitted Papers
 
-1. **Ojha, R.**, Erera, A. (Nov 2023) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Minor Revision from Transportation Science</button>](https://optimization-online.org/2023/11/cross-dock-trailer-scheduling-with-workforce-constraints-a-dynamic-discretization-discovery-approach/) 
+1. **Ojha, R.**, Erera, A. (Nov 2023) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Major Revision from Transportation Science</button>](https://optimization-online.org/2023/11/cross-dock-trailer-scheduling-with-workforce-constraints-a-dynamic-discretization-discovery-approach/) 
 
 2. **Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P. (April 2024) 
-[Optimization-based Learning for Outbound Load Planning in Parcel Delivery Service Networks]() [<button type="button" class="btn btn-info">Under Review in Transportation Science</button>](https://arxiv.org/abs/2307.04050)   
+[Optimization-based Learning for Outbound Load Planning in Parcel Delivery Service Networks]() [<button type="button" class="btn btn-info">Major Revision from Transportation Science</button>](https://arxiv.org/abs/2307.04050)   
 Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
-
-Accepted for presentation in TSL Workshop, December 2021.
 
 ### Working Papers 
 
