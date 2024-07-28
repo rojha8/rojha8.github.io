@@ -48,6 +48,6 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     </tr>
     <tr>
         <td valign="top"><strong>[Feb 2022]</strong></td>
-        <td>I wworked as an <strong>Applied Scientist</strong> intern in the <strong>Amazon</strong> Devices Optimization Services team in <strong>Summer 2022</strong></td>
+        <td>I worked as an <strong>Applied Scientist</strong> intern in the <strong>Amazon</strong> Devices Optimization Services team in <strong>Summer 2022</strong></td>
     </tr>
 </table>
