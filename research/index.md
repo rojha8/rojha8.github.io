@@ -34,24 +34,24 @@ Ghadge, A., Dani, S., **Ojha, R.**, Caldwell, N.
 
 ### Submitted Papers 
 
-1. **Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P. (April 2024) 
+**Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P. (April 2024) 
 [Optimization-based Learning for Outbound Load Planning in Parcel Delivery Service Networks]() [<button type="button" class="btn btn-info">Major Revision from Transportation Science</button>](https://arxiv.org/abs/2307.04050)   
 Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
 
 ### Working Papers 
 
-1. **Ojha, R.**, Erera, A. [Integrated Inbound-Outbound Load Planning in Trucking Service Networks]()
+**Ojha, R.**, Erera, A. [Integrated Inbound-Outbound Load Planning in Trucking Service Networks]()
 
-1. **Ojha, R.**, Erera, A. [Robust Outbound Load Planning with Volume Splitting]()
+**Ojha, R.**, Erera, A. [Robust Outbound Load Planning with Volume Splitting]()
 
-2. **Ojha, R.**, Marshall, L. [Exact Algorithms for Large-scale Airline Schedule Design]()   
+**Ojha, R.**, Marshall, L. [Exact Algorithms for Large-scale Airline Schedule Design]()   
 Accepted for presentation in 9th Triennial ODYSSEUS Conference, May 2024.
 
-3. **Ojha, R.** [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
+**Ojha, R.** [An Iterative Exact Algorithm for Unrelated Parallel Machine Scheduling Problems with Release Times]() 
 
 <!-- 4. **Ojha, R.** [A Robust Optimization Approach to Equipment Leasing and Repositioning in Parcel Delivery Service Networks]() -->
 
 
 ### Patents
 
-1. Van Hentenryck, P., Erera, A., **Ojha, R.**, Chen, W., Khir, R., [Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks](https://arxiv.org/abs/2307.04050). Filed.
+Van Hentenryck, P., Erera, A., **Ojha, R.**, Chen, W., Khir, R., [Optimization-based Learning for Dynamic Load Planning in Trucking Service Networks](https://arxiv.org/abs/2307.04050). Filed.
