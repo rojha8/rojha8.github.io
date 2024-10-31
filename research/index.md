@@ -16,25 +16,25 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 
 ### Publications
 
-1. **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.
+**Ojha, R.**, Erera, A. (Oct 2024) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Transportation Science</button>](https://optimization-online.org/2023/11/cross-dock-trail…scovery-approach/)
+
+**Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.
 [Inventory-aware Long-term Equipment Planning for Service Networks]() 
 *IISE Annual Conference and Expo, 2021.* [<button type="button" class="btn btn-info">Paper</button>](https://www.proquest.com/openview/bdda4559a67f5d87a1edb0e4a5c3a995/1?pq-origsite=gscholar&cbl=51908)   
 <strong>1st Place Award</strong> in IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition.
 
-2. **Ojha, R.**, Ghadge, A., Tiwari, M. K., Bititci, U.
+**Ojha, R.**, Ghadge, A., Tiwari, M. K., Bititci, U.
 [Bayesian network modelling for supply chain risk propagation]()
 *International Journal of Production Research (IJPR), 2018.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1467059)
 
 
-3. Ghadge, A., Dani, S., **Ojha, R.**, Caldwell, N.
+Ghadge, A., Dani, S., **Ojha, R.**, Caldwell, N.
 [Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()
 *Computers & Industrial Engineering (CAIE), 2017.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
 
-### Submitted Papers
+### Submitted Papers 
 
-1. **Ojha, R.**, Erera, A. (Nov 2023) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Major Revision from Transportation Science</button>](https://optimization-online.org/2023/11/cross-dock-trailer-scheduling-with-workforce-constraints-a-dynamic-discretization-discovery-approach/) 
-
-2. **Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P. (April 2024) 
+1. **Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P. (April 2024) 
 [Optimization-based Learning for Outbound Load Planning in Parcel Delivery Service Networks]() [<button type="button" class="btn btn-info">Major Revision from Transportation Science</button>](https://arxiv.org/abs/2307.04050)   
 Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
 

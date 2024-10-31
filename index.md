@@ -20,6 +20,9 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Jan 2024]</strong></td>
+        <td>My paper on Cross-dock Trailer Scheduling has been accepted in <strong>Transportation Science</strong></td>
+    <tr>
+        <td valign="top"><strong>[Jan 2024]</strong></td>
         <td>I presented my work on Exact Algorithms for Large-scale Airline Schedule Design at the <strong>Odysseus Conference in May 2024</strong></td>
     </tr>
     <tr>
