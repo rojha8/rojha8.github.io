@@ -16,7 +16,7 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 
 ### Publications
 
-**Ojha, R.**, Erera, A. (Oct 2024) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Transportation Science</button>](https://optimization-online.org/2023/11/cross-dock-trail…scovery-approach/)
+**Ojha, R.**, Erera, A. (Oct 2024) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() [<button type="button" class="btn btn-info">Transportation Science</button>](https://optimization-online.org/2023/11/cross-dock-trailer-scheduling-with-workforce-constraints-a-dynamic-discretization-discovery-approach/)
 
 **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.
 [Inventory-aware Long-term Equipment Planning for Service Networks]() 
