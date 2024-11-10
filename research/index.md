@@ -16,7 +16,7 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 
 ### Publications
 
-**Ojha, R.**, Erera, A. (Oct 2024) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() *Transportation Science, 2024.* [<button type="button" class="btn btn-info">Paper</button>](https://optimization-online.org/2023/11/cross-dock-trailer-scheduling-with-workforce-constraints-a-dynamic-discretization-discovery-approach/)
+**Ojha, R.**, Erera, A. (Oct 2024) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() <strong>Transportation Science, 2024.</strong> [<button type="button" class="btn btn-info">Paper</button>](https://optimization-online.org/2023/11/cross-dock-trailer-scheduling-with-workforce-constraints-a-dynamic-discretization-discovery-approach/)
 
 **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.
 [Inventory-aware Long-term Equipment Planning for Service Networks]() 
@@ -25,12 +25,12 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 
 **Ojha, R.**, Ghadge, A., Tiwari, M. K., Bititci, U.
 [Bayesian network modelling for supply chain risk propagation]()
-*International Journal of Production Research (IJPR), 2018.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1467059)
+<strong>International Journal of Production Research (IJPR), 2018.</strong>  [<button type="button" class="btn btn-info">Paper</button>](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1467059)
 
 
 Ghadge, A., Dani, S., **Ojha, R.**, Caldwell, N.
 [Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()
-*Computers & Industrial Engineering (CAIE), 2017.*  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
+<strong>Computers & Industrial Engineering (CAIE), 2017.</strong>  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
 
 ### Submitted Papers 
 
@@ -42,7 +42,7 @@ Accepted for presentation in the 2nd Triennial TSL Conference, July 2023.
 
 **Ojha, R.**, Erera, A. [Integrated Inbound-Outbound Load Planning in Trucking Service Networks]()
 
-**Ojha, R.**, Erera, A. [Robust Outbound Load Planning with Volume Splitting]()
+**Ojha, R.**, Erera, A. [Robust Outbound Load Planning with Volume Splitting for Parcel Carriers]()
 
 **Ojha, R.**, Marshall, L. [Exact Algorithms for Large-scale Airline Schedule Design]()   
 Accepted for presentation in 9th Triennial ODYSSEUS Conference, May 2024.
