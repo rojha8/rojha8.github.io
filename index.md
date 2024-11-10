@@ -5,10 +5,9 @@ tags: [ritesh, ojha, home, gatech, graduate, Martin, Savelsbergh, Natashia, Bola
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
+I am working as a Research Scientist in the Last Mile Science team at Amazon.
 
-As a Ph.D. student in <strong>Operations Research</strong> in the Department of Industrial and Systems Engineering at <strong>Georgia Tech</strong>, I am pushing the research boundary in terms of theory and practice in the area of logistics and supply chain. My thesis centers on the development of efficient exact and heuristic algorithms for planning and scheduling problems arising in trucking and airline service networks. 
-
-Working with <a href="https://www.isye.gatech.edu/users/alan-erera/">Dr. Alan Erera</a> and <a href="https://www.isye.gatech.edu/users/pascal-van-hentenryck">Dr. Pascal Van Hentenryck</a> under the <a href="https://www.ai4opt.org/">Artificial Intelligence Institute for Advances in Optimization (AI4OPT)</a> program, I am currently leading efforts in conducting cutting-edge research to solve large-scale *inbound-outbound tactical load planning* problems using machine learning and optimization. 
+I defended my PhD thesis on <strong>Advances in Tactical Planning Decision Problems in Trucking Service Networks</strong>. My thesis was supervised by my advisor <strong>Dr. Alan Erera</strong> at ISyE <strong>Georgia Tech</strong>.
 
 I completed my undergraduate degree from the <strong>Indian Institute of Technology Kharagpur</strong>, with a B.Tech in <strong>Industrial and Systems Engineering</strong>. My undergraduate thesis was based on *Risk Propagation in Supply Chain Networks* under the supervision of <a href="https://scholar.google.co.in/citations?user=xDL-rrsAAAAJ&hl=en/">Dr. M. K. Tiwari.</a> Next, I worked as an Operations Research consultant at TCG Digital, Kolkata. 
 
