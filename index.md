@@ -18,15 +18,15 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Jan 2024]</strong></td>
+        <td valign="top"><strong>[May 2025]</strong></td>
         <td>My paper on Outbound Load Planning in Parcel Delivery Service Networks has been accepted in <strong>Transportation Science</strong>.</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Jan 2024]</strong></td>
+        <td valign="top"><strong>[March 2025]</strong></td>
         <td>My paper on Robust Outbound Load Planning with Volume Splitting for Parcel Carriers has been accepted for presentation in <strong>Tristan 2025</strong> and the <strong>INFORMS Annual Meeting 2025</strong>.</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Jan 2024]</strong></td>
+        <td valign="top"><strong>[Jan 2025]</strong></td>
         <td>My paper on Cross-dock Trailer Scheduling has been accepted in <strong>Transportation Science</strong>.</td>
     </tr>
     <tr>
