@@ -20,7 +20,8 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 [Optimization-based Learning for Outbound Load Planning in Parcel Delivery Service Networks]() 
 [<button type="button" class="btn btn-info">Transportation Science, 2025.</button>](https://arxiv.org/abs/2307.04050)
 
-**Ojha, R.**, Erera, A. (Oct 2024) [Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() 
+**Ojha, R.**, Erera, A. 
+[Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() 
 [<button type="button" class="btn btn-info">Transportation Science, 2025.</button>](https://pubsonline.informs.org/doi/10.1287/trsc.2023.0406)
 
 **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.
