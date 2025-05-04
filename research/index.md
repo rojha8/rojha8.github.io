@@ -17,26 +17,31 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 ### Publications
 
 **Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P.
-[Optimization-based Learning for Outbound Load Planning in Parcel Delivery Service Networks]() 
-[<button type="button" class="btn btn-info">Transportation Science, 2025.</button>](https://arxiv.org/abs/2307.04050)
+[Optimization-based Learning for Outbound Load Planning in Parcel Delivery Service Networks]()
+<strong>Transportation Science, 2025.</strong>
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2307.04050)
 
 **Ojha, R.**, Erera, A. 
-[Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]() 
-[<button type="button" class="btn btn-info">Transportation Science, 2025.</button>](https://pubsonline.informs.org/doi/10.1287/trsc.2023.0406)
+[Cross-Dock Trailer Scheduling with Worker Constraints: A Dynamic Discretization Discovery Approach]()
+<strong>Transportation Science, 2025.</strong>
+[<button type="button" class="btn btn-info">Paper</button>](https://pubsonline.informs.org/doi/10.1287/trsc.2023.0406)
 
 **Ojha, R.**, Erera, A., Boland, N., Savelsbergh, M.
 [Inventory-aware Long-term Equipment Planning for Service Networks]() 
-*IISE Annual Conference and Expo, 2021.* [<button type="button" class="btn btn-info">Paper</button>](https://www.proquest.com/openview/bdda4559a67f5d87a1edb0e4a5c3a995/1?pq-origsite=gscholar&cbl=51908)   
+*IISE Annual Conference and Expo, 2021.* 
+[<button type="button" class="btn btn-info">Paper</button>](https://www.proquest.com/openview/bdda4559a67f5d87a1edb0e4a5c3a995/1?pq-origsite=gscholar&cbl=51908)   
 <strong>1st Place Award</strong> in IISE Logistics and Supply Chain (LSC) Division Best Student Paper Competition.
 
 **Ojha, R.**, Ghadge, A., Tiwari, M. K., Bititci, U.
 [Bayesian network modelling for supply chain risk propagation]()
-<strong>International Journal of Production Research (IJPR), 2018.</strong>  [<button type="button" class="btn btn-info">Paper</button>](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1467059)
+<strong>International Journal of Production Research (IJPR), 2018.</strong>  
+[<button type="button" class="btn btn-info">Paper</button>](https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1467059)
 
 
 Ghadge, A., Dani, S., **Ojha, R.**, Caldwell, N.
 [Using risk sharing contracts for supply chain risk mitigation: A buyer-supplier power and dependence perspective]()
-<strong>Computers & Industrial Engineering (CAIE), 2017.</strong>  [<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
+<strong>Computers & Industrial Engineering (CAIE), 2017.</strong>
+[<button type="button" class="btn btn-info">Paper</button>](https://www.sciencedirect.com/science/article/pii/S0360835216304673)
 
 ### Submitted Papers 
 
