@@ -17,7 +17,7 @@ Network Design and Scheduling, Supply Chain Optimization, Data-driven Optimizati
 ### Publications
 
 **Ojha, R.**, Chen, W., Zhang, H., Khir, R., Erera, A., Van Hentenryck, P.
-[Optimization-based Learning for Outbound Load Planning in Parcel Delivery Service Networks]()
+[Outbound Load Planning in Parcel Delivery Service Networks using Machine Learning and Optimization]()
 <strong>Transportation Science, 2025.</strong>
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2307.04050)
 
