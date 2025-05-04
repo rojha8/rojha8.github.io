@@ -23,7 +23,7 @@ I completed my undergraduate degree from the <strong>Indian Institute of Technol
     </tr>
     <tr>
         <td valign="top"><strong>[March 2025]</strong></td>
-        <td>My paper on Robust Outbound Load Planning with Volume Splitting for Parcel Carriers has been accepted for presentation in <strong>Tristan 2025</strong> and the <strong>INFORMS Annual Meeting 2025</strong>.</td>
+        <td>My paper on Robust Outbound Load Planning with Volume Splitting for Parcel Carriers has been accepted for presentation at <strong>Tristan 2025</strong> and the <strong>INFORMS Annual Meeting 2025</strong>.</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2025]</strong></td>
